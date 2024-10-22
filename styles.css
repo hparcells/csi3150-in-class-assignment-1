@@ -63,7 +63,7 @@ p {
 }
 .available-colors {
   display: flex;
-  gap: 20px;
+  gap: 30px;
 
   padding: 20px 20px 20px 0;
   margin-bottom: 20px;
